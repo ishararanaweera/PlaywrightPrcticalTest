@@ -10,10 +10,10 @@ Make sure you have Node.js and playwright installed on your system.
 Installation:
 
 1. Clone the repository to your local machine: 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ishararanaweera/PlaywrightPrcticalTest.git
 
 2. Navigate to the project directory and install the dependencies:
-cd your-repo
+cd PlaywrightPrcticalTest
 
 npm install
 
